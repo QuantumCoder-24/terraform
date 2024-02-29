@@ -1,0 +1,7 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+avail_zone = "us-east-1a"
+env_prefix = "dev"
+myip = "106.51.164.111/32"
+instance-type = "t2.micro"
+public_key_location = "/Users/abhinav/.ssh/id_rsa.pub"
